@@ -1,6 +1,6 @@
 # myweather
 
-A new Flutter project.
+Building a weather app as a way to learn Flutter
 
 ## Getting Started
 
